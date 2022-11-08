@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leob03
-- 👀 I’m interested in Robotics in general.
-- 🌱 I’m currently learning mechatronics and machine learning at Univeristy of Michigan Ann-Arbor.
+- 👀 I’m interested in Robotics and Computer Vision.
+- 🌱 I’m currently learning Machine Learning and Robotics at Univeristy of Michigan Ann-Arbor.
 - 📫 Reach me at lbringer@umich.edu
 
 <!---
