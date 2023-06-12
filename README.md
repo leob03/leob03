@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leob03
-- 👀 I’m interested in Robotics and Computer Vision.
-- 🌱 I’m currently learning Machine Learning and Robotics at Univeristy of Michigan Ann-Arbor.
+- 👀 I’m interested in Deep Learning, Computer Vision and Robotics.
+- 🌱 I’m currently developping a neural network based method for human motion forecasting in the context of Human-Robot Collaboration at the Barton Research Group.
 - 📫 Reach me at lbringer@umich.edu
 
 <!---
