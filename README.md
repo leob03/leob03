@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leob03
 - 👀 I’m interested in Deep Learning, Computer Vision and Robotics.
-- 🌱 I’m currently developping a neural network based method for human motion forecasting in the context of Human-Robot Collaboration at the Barton Research Group.
+- 🌱 I’m currently developping a neural network based method for human motion forecasting in the context of Human-Robot Collaboration at the Barton Research Group and a 2nd year Master student at the University of Michigan.
 - 📫 Reach me at lbringer@umich.edu
 
 <!---
