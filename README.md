@@ -1,11 +1,11 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&duration=2000&pause=1000&color=D4D32CFD&center=true&multiline=true&width=435&height=85&lines=Leo+Bringer;Research+Assistant+%7C+MSc+Student;AI+%7C+Computer+VIsion+%7C+Robotics" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&duration=1000&pause=200&color=800080&center=true&multiline=true&width=435&height=85&lines=Leo+Bringer;Research+Assistant+%7C+MSc+Student;AI+%7C+Computer+VIsion+%7C+Robotics" alt="Typing SVG" />
 </a>
 <br/>
 
-<a href="https://github.com/leob03/github-readme-stats">
+<!--a href="https://github.com/leob03/github-readme-stats">
     <img src="https://github-readme-stats-eight-wine-13.vercel.app/api?username=leob03&show_icons=true&rank_icon=github&hide_title=true&theme=radical&card_width=460">
-</a>
+</a!-->
 
 <br/>
 <a href="https://leobringer.com/">
@@ -20,7 +20,7 @@
 </a>
 </p>
 
-* :desktop_computer: Conducted research on **AI** and **Robotics** @ [BRG](https://brg.engin.umich.edu/).
+* :desktop_computer:  Conducted research on **AI** and **Robotics** @ [BRG](https://brg.engin.umich.edu/).
 
 * :bulb: Open to collaborating on various AI and 3D Vision related projects. 
 
