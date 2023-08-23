@@ -24,4 +24,4 @@
 
 * :bulb: Open to collaborating on various AI and 3D Vision related projects. 
 
-* :mortar_board: MSc student @ **University of Michigan**.
+* :mortar_board: Graduate student @ **University of Michigan**.
