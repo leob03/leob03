@@ -20,7 +20,7 @@
 </a>
 </p>
 
-* :desktop_computer:  Conducted research on **AI** and **Robotics** @ [BRG](https://brg.engin.umich.edu/).
+* :desktop_computer:  Conducting research on **AI** and **Robotics** @ [BRG](https://brg.engin.umich.edu/).
 
 * :bulb: Open to collaborating on various AI and 3D Vision related projects. 
 
