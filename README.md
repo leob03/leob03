@@ -20,8 +20,8 @@
 </a>
 </p>
 
-* :desktop_computer:  Conducting research on **AI** and **Robotics** @ [BRG](https://brg.engin.umich.edu/).
+* :desktop_computer:  Conducting research on **Human Motion Forecasting** for Human-Robot Collaboration @ [BRG](https://brg.engin.umich.edu/).
 
-* :bulb: Open to collaborating on various AI and 3D Vision related projects. 
+* :bulb: Open to collaborating on various Deep Learning and Computer/3D Vision related projects. 
 
 * :mortar_board: Graduate student @ **University of Michigan**.
