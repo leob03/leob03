@@ -3,10 +3,6 @@
 </a>
 <br/>
 
-<a href="https://github.com/leob03/github-readme-stats">
-    <img src="https://github-readme-stats-eight-wine-13.vercel.app/api?username=leob03&show_icons=true&rank_icon=github&hide_title=true&theme=radical&card_width=460">
-</a>
-
 <br/>
 <a href="https://leobringer.com/">
     <img src="https://img.shields.io/badge/Website-leob03-green?style=flat-square">
