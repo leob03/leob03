@@ -22,4 +22,4 @@
 
 * :bulb: Open to collaborating on various Deep Learning and Computer/3D Vision related projects. 
 
-* :mortar_board: Graduate student @ **University of Michigan**.
+* :mortar_board: Former graduate student @ **University of Michigan**.
