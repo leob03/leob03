@@ -3,7 +3,7 @@
 </a>
 <br/>
 
-<!--p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leob03&show_icons=true&locale=en" alt="leob03" /></p!-->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leob03&show_icons=true&locale=en" alt="leob03" /></p>
 
 <br/>
 <a href="https://leobringer.com/">
