@@ -6,6 +6,15 @@
 <!--p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leob03&show_icons=true&locale=en" alt="leob03" /></p!-->
 
 <br/>
+</p>
+
+* :desktop_computer:   Conducting research on **Human Motion Generative Predictions** for Human-Robot Collaboration @ [BRG](https://brg.engin.umich.edu/).
+
+* :bulb: Open to collaborating on various Deep Learning and Computer/3D Vision related projects. 
+
+* :mortar_board: Former graduate student @ **University of Michigan**.
+
+<p align="center">
 <a href="https://leobringer.com/">
     <img src="https://img.shields.io/badge/Website-leob03-green?style=flat-square">
 </a>
@@ -17,9 +26,3 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 </p>
-
-* :desktop_computer:   Conducting research on **Human Motion Generative Predictions** for Human-Robot Collaboration @ [BRG](https://brg.engin.umich.edu/).
-
-* :bulb: Open to collaborating on various Deep Learning and Computer/3D Vision related projects. 
-
-* :mortar_board: Former graduate student @ **University of Michigan**.
